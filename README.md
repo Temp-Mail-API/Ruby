@@ -28,7 +28,7 @@ p client.incoming_emails('monkey9000@flurred.com')
 
 ## Contributing
 
-1. Fork it ( https://github.com/maxd/temp-mail/fork )
+1. Fork it ( https://github.com/Temp-Mail-API/Ruby/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
